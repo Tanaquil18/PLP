@@ -204,7 +204,7 @@ Not that the order we write things in doesn't matter
 </mrow>
 </md>
 because the only thing we can ask is <q>Is this object an element of <m>C</m>?</q>
-We cannot ask more complex questions like <q>what is the third element of <m>C</m></q> <mdash/> we require more sophisticated mathematical objects to ask such questions and we'll might get around to looking at such things later in the course.
+We cannot ask more complex questions like <q>what is the third element of <m>C</m></q> <mdash/> we require more sophisticated mathematical objects to ask such questions, and we might get around to looking at such things later in the course.
 </p>
 
 <p>Similarly, it doesn't matter how many times we write the same object in the list
